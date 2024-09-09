@@ -1,2 +1,3 @@
 # German-Notes-App
-This is a Notes App designed to store notes while I learn German
+## This is a Notes App designed to store notes while I learn German. It works well on handheld mobile devices but looks a little off on standard laptop screens (1920x1080). The reason for this is each note has a width of 80% and 10% padding left and right, I will expand on this to create a maximum width for devices with wider screens that typically are used in landscape mode and perhaps utilise empty space on the right hand side of the screen to get more notes on the visible screen. I would also like to create sub folders so we can store notes in German A1.1, A1.2, A2, B1, B2, C1, C2, etc.
+## The purpose of this Project was to create an app that allows you to create notes, edit them and delete them. It was created using HTML, CSS and intermediate JavaScript.
